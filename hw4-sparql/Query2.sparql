@@ -1,0 +1,2 @@
+SELECT count(?name) as ?Number_Of_Painter
+WHERE {?name rdf:type dbo:Painter}

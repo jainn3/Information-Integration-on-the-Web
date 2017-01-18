@@ -1,0 +1,4 @@
+SELECT ?name
+WHERE {?name rdfs:subClassOf dbo:Artist .
+}
+GROUP BY ?name

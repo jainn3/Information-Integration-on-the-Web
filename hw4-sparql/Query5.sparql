@@ -1,0 +1,10 @@
+SELECT ?label, ?dop
+WHERE {?name rdf:type dbo:Artist .
+      ?name dbo:birthDate ?dop .
+      ?name rdfs:label ?label .
+      filter (lang(?label) = 'en')
+      filter( regex(?label, "David" ))
+      filter (?dop < "1800-12-31"^^xsd:date)
+
+}
+ORDER BY DESC(?dop)

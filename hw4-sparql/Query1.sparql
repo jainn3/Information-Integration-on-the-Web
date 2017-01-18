@@ -1,0 +1,3 @@
+SELECT ?pname
+WHERE {?name rdf:type dbo:Painter .
+       ?name rdfs:label ?pname} 

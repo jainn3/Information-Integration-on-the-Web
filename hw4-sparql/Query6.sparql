@@ -1,0 +1,15 @@
+SELECT ?label, count(?i)
+WHERE {
+      ?name rdf:type dbo:Artist .
+      ?name rdfs:label ?label .
+      ?name dbo:instrument ?i .
+filter (lang(?label) = 'en')
+filter not exists { 
+      ?name rdf:type dbo:Artist .
+      ?name rdfs:label ?label .
+      ?name dbo:instrument dbr:Guitar .
+}
+}
+GROUP BY ?label
+HAVING (count(?i) = 10)
+ORDER BY ?label

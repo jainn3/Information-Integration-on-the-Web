@@ -1,0 +1,12 @@
+SELECT ?label, ?birthplace, ?ht, count(?occ)
+WHERE {?name rdf:type dbo:Artist .
+?name dbo:birthPlace ?birthplace.
+?name dbo:hometown ?ht .
+?name dbo:occupation ?occ .
+?name dbo:wikiPageID ?wiki .
+?name rdfs:label ?label .
+filter (regex(?ht,"Los_Angeles")).
+filter (regex(?birthplace,"United_States")) }
+GROUP BY ?label ?ht ?birthplace
+HAVING (count(?occ) > 2)
+ORDER BY ?label

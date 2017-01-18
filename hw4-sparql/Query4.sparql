@@ -1,0 +1,7 @@
+SELECT ?name 
+WHERE {
+ dbr:A_Christmas_Tale dbo:starring ?actors .
+ ?actors rdf:type dbo:Actor ; rdfs:label ?name .
+ FILTER(lang(?name)="en")
+}
+ORDER BY ?name
