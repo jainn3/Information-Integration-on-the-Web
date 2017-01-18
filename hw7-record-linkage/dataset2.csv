@@ -1,0 +1,111 @@
+row_num,r_name,r_address,r_number,r_type
+2,Apple Pan The,10801 W. Pico Blvd. West LA,310-475-3585,American
+3,Arnie Morton's of Chicago,435 S. La Cienega Blvd. Los Angeles,310-246-1501,Steakhouses
+4,Art's Deli,12224 Ventura Blvd. Studio City,818-762-1221,Delis
+5,Asahi Ramen,2027 Sawtelle Blvd. West LA,310-479-2231,Noodle Shops
+6,Baja Fresh,3345 Kimber Dr. Westlake Village,805-498-4049,Mexican
+7,Bel-Air Hotel,701 Stone Canyon Rd. Bel Air,310-472-1211,Californian
+8,Belvedere The,9882 Little Santa Monica Blvd. Beverly Hills,310-788-2306,Pacific New Wave
+9,Benita's Frites,1433 Third St. Promenade Santa Monica,310-458-2889,Fast Food
+10,Bernard's,515 S. Olive St. Los Angeles,213-612-1580,Continental
+11,Bistro,45 45 S. Mentor Ave. Pasadena,818-795-2478,Californian
+12,Brent's Deli,19565 Parthenia Ave. Northridge,818-886-5679,Delis
+13,Brighton Coffee Shop,9600 Brighton Way Beverly Hills,310-276-7732,Coffee Shops
+14,Bristol Farms Market Cafe,1570 Rosecrans Ave. S. Pasadena,310-643-5229,Californian
+15,Bruno's,3838 Centinela Ave. Mar Vista,310-397-5703,Italian
+16,Cafe '50s,838 Lincoln Blvd. Venice,310-399-1955,American
+17,Cafe Bizou,14016 Ventura Blvd. Sherman Oaks,818-788-3536,French Bistro
+18,Cafe Blanc,9777 Little Santa Monica Blvd. Beverly Hills,310-888-0108,Pacific New Wave
+19,Campanile,624 S. La Brea Ave. Los Angeles,213-938-1447,Californian
+20,Cassell's,3266 W. Sixth St. LA,213-480-8668,Hamburgers
+21,Chez Melange,1716 PCH Redondo Beach,310-540-1222,Eclectic
+22,Chinois on Main,2709 Main St. Santa Monica,310-392-9025,Pacific New Wave
+23,Citrus,6703 Melrose Ave. Los Angeles,213-857-0034,Californian
+24,Diaghilev,1020 N. San Vicente Blvd. W. Hollywood,310-854-1111,Russian
+25,Don Antonio's,1136 Westwood Blvd. Westwood,310-209-1422,Italian
+26,Duke's,8909 Sunset Blvd. W. Hollywood,310-652-3100,Coffee Shops
+27,Falafel King,1059 Broxton Ave. Westwood,310-208-4444,Middle Eastern
+28,Feast from the East,1949 Westwood Blvd. West LA,310-475-0400,Chinese
+29,Fenix at the Argyle,8358 Sunset Blvd. W. Hollywood,213-848-6677,French (New)
+30,Granita,23725 W. Malibu Rd. Malibu,310-456-0488,Californian
+31,Grill The,9560 Dayton Way Beverly Hills,310-276-0615,American (Traditional)
+32,Gumbo Pot The,6333 W. Third St. LA,213-933-0358,Cajun/Creole
+33,Hollywood Hills Coffee Shop,6145 Franklin Ave. Hollywood,213-467-7678,Coffee Shops
+34,Indo Cafe,10428 1/2 National Blvd. LA,310-815-1290,Indonesian
+35,Jan's Family Restaurant,8424 Beverly Blvd. LA,213-651-2866,Coffee Shops
+36,JiRaffe,502 Santa Monica Blvd. Santa Monica,310-917-6671,Californian
+37,Jody Maroni's Sausage Kingdom,2011 Ocean Front Walk Venice,310-306-1995,Hot Dogs
+38,Joe's,1023 Abbot Kinney Blvd. Venice,310-399-5811,American (New)
+39,John O'Groats,10516 W. Pico Blvd. West LA,310-204-0692,Coffee Shops
+40,Johnnie's Pastrami,4017 S. Sepulveda Blvd. Culver City,310-397-6654,Delis
+41,Johnny Reb's Southern Smokehouse,4663 Long Beach Blvd. Long Beach,310-423-7327,Southern/Soul
+42,Johnny Rockets (LA),7507 Melrose Ave. LA,213-651-3361,American
+43,Katsu,1972 Hillhurst Ave. Los Feliz,213-665-1891,Japanese
+44,Killer Shrimp,4000 Colfax Ave. Studio City,818-508-1570,Seafood
+45,Kokomo Cafe,6333 W. Third St. LA,213-933-0773,American
+46,Koo Koo Roo,8393 W. Beverly Blvd. LA,213-655-9045,Chicken
+47,L'Orangerie,903 N. La Cienega Blvd. W. Hollywood,310-652-9770,French (Classic)
+48,La Cachette,10506 Little Santa Monica Blvd. Century City,310-470-4992,French (New)
+49,La Salsa (LA),22800 PCH Malibu,310-456-6299,Mexican
+50,La Serenata de Garibaldi,1842 E. First St. Boyle Hts.,213-265-2887,Mexican/Tex-Mex
+51,Langer's,704 S. Alvarado St. LA,213-483-8050,Delis
+52,Le Chardonnay (Los Angeles),8284 Melrose Ave. Los Angeles,213-655-8880,French Bistro
+53,LoCal NoChol,30869 Thousand Oaks Blvd. Westlake Village,818-706-7706,Health Food
+54,Locanda Veneta,8638 W. Third St. Los Angeles,310-274-1893,Italian
+55,Main Course The,10509 W. Pico Blvd. Rancho Park,310-475-7564,American
+56,Mani's Bakery & Espresso Bar,519 S. Fairfax Ave. LA,213-938-8800,Desserts
+57,Martha's 22nd Street Grill,25 22nd St. Hermosa Beach,310-376-7786,American
+58,Matsuhisa,129 N. La Cienega Blvd. Beverly Hills,310-659-9639,Seafood
+59,Maxwell's Cafe,13329 Washington Blvd. Marina del Rey,310-306-7829,American
+60,Michael's (Los Angeles),1147 Third St. Santa Monica,310-451-0843,Californian
+61,Mishima,8474 W. Third St. LA,213-782-0181,Noodle Shops
+62,Mo Better Meatty Meat,7261 Melrose Ave. LA,213-935-5280,Hamburgers
+63,Mulberry St.,17040 Ventura Blvd. Encino,818-906-8881,Pizza
+64,Ocean Park Cafe,3117 Ocean Park Blvd. Santa Monica,310-452-5728,American
+65,Ocean Star,145 N. Atlantic Blvd. Monterey Park,818-308-2128,Seafood
+66,Original Pantry Bakery,875 S. Figueroa St. Downtown LA,213-627-6879,Diners
+67,Palm The (Los Angeles),9001 Santa Monica Blvd. W. Hollywood,310-550-8811,Steakhouses
+68,Parkway Grill,510 S. Arroyo Pkwy. Pasadena,818-795-1001,Californian
+69,Patina,5955 Melrose Ave. Los Angeles,213-467-1108,Californian
+70,Philippe The Original,1001 N. Alameda St. Chinatown,213-628-3781,Cafeterias
+71,Pho Hoa,642 Broadway Chinatown,213-626-5530,Vietnamese
+72,Pink's Famous Chili Dogs,709 N. La Brea Ave. LA,213-931-4223,Hot Dogs
+73,Pinot Bistro,12969 Ventura Blvd. Studio City,818-990-0500,French Bistro
+74,Poquito Mas,2635 W. Olive Ave. Burbank,818-563-2252,Mexican
+75,R-23,923 E. Third St. Los Angeles,213-687-7178,Japanese
+76,Rae's,2901 Pico Blvd. Santa Monica,310-828-7937,Diners
+77,Rex Il Ristorante,617 S. Olive St. Los Angeles,213-627-2300,Nuova Cucina Italian
+78,Rubin's Red Hots,15322 Ventura Blvd. Encino,818-905-6515,Hot Dogs
+79,Ruby's (LA),45 S. Fair Oaks Ave. Pasadena,818-796-7829,Diners
+80,Russell's Burgers,1198 PCH Seal Beach,310-596-9556,Hamburgers
+81,Ruth's Chris Steak House (Los Angeles),224 S. Beverly Dr. Beverly Hills,310-859-8744,Steakhouses
+82,Shiro,1505 Mission St. S. Pasadena,818-799-4774,Pacific New Wave
+83,Spago (Los Angeles),8795 Sunset Blvd. W. Hollywood,310-652-4025,Californian
+84,Sushi Nozawa,11288 Ventura Blvd. Studio City,818-508-7017,Japanese
+85,Sweet Lady Jane,8360 Melrose Ave. LA,213-653-7145,Desserts
+86,Taiko,11677 San Vicente Blvd. Brentwood,310-207-7782,Noodle Shops
+87,Tommy's,2575 Beverly Blvd. LA,213-389-9060,Hamburgers
+88,Uncle Bill's Pancake House,1305 Highland Ave. Manhattan Beach,310-545-5177,Diners
+89,Valentino,3115 Pico Blvd. Santa Monica,310-829-4313,Italian
+90,Water Grill,544 S. Grand Ave. Los Angeles,213-891-0900,Seafood
+91,Yujean Kang's,67 N. Raymond Ave. Pasadena,818-585-0855,Chinese
+92,Zankou Chicken,1415 E. Colorado St. Glendale,818-244-1937,Middle Eastern
+93,Afghan Kebab House,764 Ninth Ave. New York City,212-307-1612,Afghan
+94,Aquavit,13 W. 54th St. New York City,212-307-7311,Scandinavian
+95,Arcadia,21 E. 62nd St. New York City,212-223-2900,American (New)
+96,Aureole,34 E. 61st St. New York City,212-319-1660,American (New)
+97,Benny's Burritos,93 Ave. A New York City,212-254-2054,Mexican
+98,Cafe Con Leche,424 Amsterdam Ave. New York City,212-595-7000,Cuban
+99,Cafe Lalo,201 W. 83rd St. New York City,212-496-6031,Coffeehouses
+100,Cafe des Artistes,1 W. 67th St. New York City,212-877-3500,French (Classic)
+101,Carmine's,2450 Broadway New York City,212-362-2200,Italian
+102,Carnegie Deli,854 Seventh Ave. New York City,212-757-2245,Delis
+103,Chanterelle,2 Harrison St. New York City,212-966-6960,French (New)
+104,Corner Bistro,331 W. Fourth St. New York City,212-242-9502,Hamburgers
+105,Cucina della Fontana,368 Bleecker St. New York City,212-242-0636,Italian
+106,Cucina di Pesce,87 E. Fourth St. New York City,212-260-6800,Seafood
+107,Daniel,20 E. 76th St. New York City,212-288-0033,French (New)
+108,Darbar,44 W. 56th St. New York City,212-432-7227,Indian
+109,Dawat,210 E. 58th St. New York City,212-355-7555,Indian
+110,EJ's Luncheonette,432 Sixth Ave. New York City,212-473-5555,Diners
+111,Edison Cafe,228 W. 47th St. New York City,212-840-5000,Diners

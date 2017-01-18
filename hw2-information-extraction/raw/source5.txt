@@ -1,0 +1,15 @@
+	During the storm and the ensuing chaos, 1800 people lost their lives in New Orleans and across the Gulf Coast. 
+	Many of these deaths, as well as the extensive destruction, could have been avoided or minimized if there had been better planning and preparedness in anticipation of just such an event, and if there had been much better communication and collaboration throughout the crisis as it unfolded. 
+	Responsibility falls on many from government officials (at every level) to hospitals to businesses to individuals. 
+	If there is any silver lining to such a destructive event, it’s that it forced many in the US to be much better prepared for the next major catastrophe. 
+	Case in point, in October 2012, Superstorm Sandy barreled through the Caribbean and the eastern US, affecting almost half of the states in the US. 
+	The storm caused unprecedented flooding and left millions without access to basic infrastructure and thousands without homes, but this time, about 200 people across 24 states lost their lives.
+	While we’ve become better prepared, governments, businesses, and individuals still have a lot of room for improvement. 
+	When we analyze how businesses fare after events such as Hurricane Katrina, the Japan earthquake of 2011, and Superstorm Sandy, we find that over and again, effective communication and collaboration under the stress of the event is the most significant challenge. 
+	We also find that many business continuity planners fail to account for the cascading consequences triggered by the initial crisis (e.g., earthquake triggers tsunami that leads to transportation disruptions and food shortages), and they don't anticipate the likely loss of critical infrastructure services (e.g., power, water, telecommunication).
+	So as so-called "100-year floods" and cyberattacks grow more frequent, and as governments, healthcare providers, and businesses become completely dependent on complex technology, business continuity preparedness becomes a cornerstone of a resilient organization. 
+	A resilient organization can absorb the impact of any unexpected event without failing to deliver on its brand promise and commitments to customers, clients, patients, citizens etc. 
+	As we mark the 10-year anniversary of Hurricane Katrina, it’s a good time for business continuity planners and other risk management pros to step back and assess the current state of their resiliency efforts.
+	If you want to compare how your organization is doing compared to the rest of the industry, I recommend that you read my four-part series on the state of business continuity. 
+	Part 1 - The State Of Business Continuity 2015: Mission, Priorities, Program Management, And Budgeting – is live today, and the subsequent parts will be available in the coming weeks and months. 
+	I hope you find it valuable, and as always, I look forward to your thoughts and comments.

@@ -1,0 +1,111 @@
+row_num,r_name,r_address,r_number,r_type
+2,Adriano's Ristorante,2930 Beverly Glen Circle Los Angeles,310/475-9807,Italian
+3,Arnie Morton's of Chicago,435 S. La Cienega Blvd. Los Angeles,310/246-1501,American
+4,Art's Delicatessen,12224 Ventura Blvd. Studio City,818/762-1221,American
+5,Barney Greengrass,9570 Wilshire Blvd. Beverly Hills,310/777-5877,American
+6,Beaurivage,26025 Pacific Coast Hwy. Malibu,310/456-5733,French
+7,Bistro Garden,176 N. Canon Dr. Los Angeles,310/550-3900,Californian
+8,Ca'Brea,346 S. La Brea Ave. Los Angeles,213/938-2863,Italian
+9,Ca'del Sol,4100 Cahuenga Blvd. Los Angeles,818/985-4669,Italian
+10,Cafe Bizou,14016 Ventura Blvd. Sherman Oaks,818/788-3536,French
+11,Cafe Pinot,700 W. Fifth St. Los Angeles,213/239-6500,Californian
+12,California Pizza Kitchen,207 S. Beverly Dr. Los Angeles,310/275-1101,Californian
+13,Campanile,624 S. La Brea Ave. Los Angeles,213/938-1447,American
+14,Cha Cha Cha,656 N. Virgil Ave. Los Angeles,213/664-7723,Caribbean
+15,Chan Dara,310 N. Larchmont Blvd. Los Angeles,213/467-1052,Asian
+16,Chinois on Main,2709 Main St. Santa Monica,310/392-9025,French
+17,Citrus,6703 Melrose Ave. Los Angeles,213/857-0034,Californian
+18,Clearwater Cafe,168 W. Colorado Blvd. Los Angeles,818/356-0959,Health Food
+19,Dining Room,9500 Wilshire Blvd. Los Angeles,310/275-5200,Californian
+20,Dive!,10250 Santa Monica Blvd. Los Angeles,310/788-DIVE,American
+21,Drago,2628 Wilshire Blvd. Santa Monica,310/828-1585,Italian
+22,Drai's,730 N. La Cienega Blvd. Los Angeles,310/358-8585,French
+23,Dynasty Room,930 Hilgard Ave. Los Angeles,310/208-8765,Continental
+24,Eclipse,8800 Melrose Ave. Los Angeles,310/724-5959,Californian
+25,Ed Debevic's,134 N. La Cienega Los Angeles,310/659-1952,American
+26,El Cholo,1121 S. Western Ave. Los Angeles,213/734-2773,Mexican
+27,Fenix,8358 Sunset Blvd. West Hollywood,213/848-6677,American
+28,Gilliland's,2424 Main St. Santa Monica,310/392-3901,American
+29,Gladstone's,4 Fish 17300 Pacific Coast Hwy. at Sunset Blvd. Pacific Palisades,310/454-3474,American
+30,Granita,23725 W. Malibu Rd. Malibu,310/456-0488,Californian
+31,Grill on the Alley,9560 Dayton Way Los Angeles,310/276-0615,American
+32,Hard Rock Cafe,8600 Beverly Blvd. Los Angeles,310/276-7605,American
+33,Harry's Bar & American Grill,2020 Ave. of the Stars Los Angeles,310/277-2333,Italian
+34,Hotel Bel-Air,701 Stone Canyon Rd. Bel Air,310/472-1211,Californian
+35,Il Fornaio Cucina Italiana,301 N. Beverly Dr. Los Angeles,310/550-8330,Italian
+36,Jack Sprat's Grill,10668 W. Pico Blvd. Los Angeles,310/837-6662,Health Food
+37,Jackson's Farm,439 N. Beverly Drive Los Angeles,310/273-5578,Californian
+38,Jimmy's,201 Moreno Dr. Los Angeles,310/552-2394,Continental
+39,Joss,9255 Sunset Blvd. Los Angeles,310/276-1886,Asian
+40,L'Orangerie,903 N. La Cienega Blvd. Los Angeles,310/652-9770,French
+41,Le Chardonnay,8284 Melrose Ave. Los Angeles,213/655-8880,French
+42,Le Colonial,8783 Beverly Blvd. Los Angeles,310/289-0660,Asian
+43,Le Dome,8720 Sunset Blvd. Los Angeles,310/659-6919,French
+44,Louise's Trattoria,4500 Los Feliz Blvd. Los Angeles,213/667-0777,Italian
+45,Matsuhisa,129 N. La Cienega Blvd. Beverly Hills,310/659-9639,Asian
+46,Mon Kee Seafood Restaurant,679 N. Spring St. Los Angeles,213/628-6717,Asian
+47,Morton's,8764 Melrose Ave. Los Angeles,310/276-5205,American
+48,Nate 'n' Al's,414 N. Beverly Dr. Los Angeles,310/274-0101,American
+49,Nicola,601 S. Figueroa St. Los Angeles,213/485-0927,American
+50,Ocean Avenue,1401 Ocean Ave. Santa Monica,310/394-5669,American
+51,Orleans,11705 National Blvd. Los Angeles,310/479-4187,Cajun
+52,Patina,5955 Melrose Ave. Los Angeles,213/467-1108,Californian
+53,Paty's,10001 Riverside Dr. Toluca Lake,818/761-9126,American
+54,Philippe's The Original,1001 N. Alameda St. Los Angeles,213/628-3781,American
+55,Pinot Bistro,12969 Ventura Blvd. Los Angeles,818/990-0500,French
+56,Pinot Hollywood,1448 N. Gower St. Los Angeles,213/461-8800,Californian
+57,Posto,14928 Ventura Blvd. Sherman Oaks,818/784-4400,Italian
+58,Prego,362 N. Camden Dr. Los Angeles,310/277-7346,Italian
+59,RJ'S the Rib Joint,252 N. Beverly Dr. Los Angeles,310/274-7427,American
+60,Restaurant Horikawa,111 S. San Pedro St. Los Angeles,213/680-9355,Asian
+61,Restaurant Katsu,1972 N. Hillhurst Ave. Los Angeles,213/665-1891,Asian
+62,Rex Il Ristorante,617 S. Olive St. Los Angeles,213/627-2300,Italian
+63,Roscoe's House of Chicken 'n' Waffles,1514 N. Gower St. Los Angeles,213/466-9329,American
+64,Schatzi on Main,3110 Main St. Los Angeles,310/399-4800,Continental
+65,Spago,1114 Horn Ave. Los Angeles,310/652-4025,Californian
+66,Swingers,8020 Beverly Blvd. Los Angeles,213/653-5858,American
+67,Tavola Calda,7371 Melrose Ave. Los Angeles,213/658-6340,Italian
+68,The Mandarin,430 N. Camden Dr. Los Angeles,310/859-0926,Asian
+69,The Palm,9001 Santa Monica Blvd. Los Angeles,310/550-8811,American
+70,Tommy Tang's,7313 Melrose Ave. Los Angeles,213/937-5733,Asian
+71,Tra di Noi,3835 Cross Creek Rd. Los Angeles,310/456-0169,Italian
+72,Trader Vic's,9876 Wilshire Blvd. Los Angeles,310/276-6345,Asian
+73,Valentino,3115 Pico Blvd. Santa Monica,310/829-4313,Italian
+74,Vida,1930 North Hillhurst Ave. Los Feliz,213/660-4446,American
+75,West Beach Cafe,60 N. Venice Blvd. Los Angeles,310/823-5396,American
+76,Yujean Kang's Gourmet Chinese Cuisine,67 N. Raymond Ave. Los Angeles,818/585-0855,Asian
+77,Adrienne,700 5th Ave. at 55th St. New York,212/903-3918,French
+78,Agrotikon,322 E. 14 St. between 1st and 2nd Aves. New York,212/473-2602,Mediterranean
+79,Aja,937 Broadway at 22nd St. New York,212/473-8388,American
+80,Alley's End,311 W. 17th St. New York,212/627-8899,American
+81,Ambassador Grill,1 United Nations Plaza at 44th St. New York,212/702-5014,American
+82,American Place,2 Park Ave. at 32nd St. New York,212/684-2122,American
+83,Anche Vivolo,222 E. 58th St. between 2nd and 3rd Aves. New York,212/308-0112,Italian
+84,Aquavit,13 W. 54th St. New York,212/307-7311,Continental
+85,Arizona,206 206 E. 60th St. New York,212/838-0440,American
+86,Arturo's,106 W. Houston St. off Thompson St. New York,212/677-3820,Italian
+87,Bar Anise,1022 3rd Ave. between 60th and 61st Sts. New York,212/355-1112,Mediterranean
+88,Barbetta,321 W. 46th St. New York,212/246-9171,Italian
+89,Ben Benson's,123 W. 52nd St. New York,212/581-8888,American
+90,Big Cup,228 8th Ave. between 21st and 22nd Sts. New York,212/206-0059,Coffee Bar
+91,Billy's,948 1st Ave. between 52nd and 53rd Sts. New York,212/753-1870,American
+92,Boca Chica,13 1st Ave. near 1st St. New York,212/473-0108,Latin American
+93,Bolo,23 E. 22nd St. New York,212/228-2200,Mediterranean
+94,Bouterin,420 E. 59th St. off 1st Ave. New York,212/758-0323,French
+95,Brothers Bar-B-Q,225 Varick St. at Clarkston St. New York,212/727-2775,American
+96,Bruno,240 E. 58th St. New York,212/688-4190,Italian
+97,Bryant Park Grill Roof Restaurant and BP Cafe,25 W. 40th St. between 5th and 6th Aves. New York,212/840-6500,American
+98,C3,103 Waverly Pl. near Washington Sq. New York,212/254-1200,American
+99,CT,111 E. 22nd St. between Park Ave. S and Lexington Ave. New York,212/995-8500,French
+100,Caf&eacute; Bianco,1486 2nd Ave. between 77th and 78th Sts. New York,212/988-2655,Coffee Bar
+101,Caf&eacute; Botanica,160 Central Park S New York,212/484-5120,French
+102,Caf&eacute; La Fortuna,69 W. 71st St. New York,212/724-5846,Coffee Bar
+103,Caf&eacute; Lalo,201 W. 83rd St. New York,212/496-6031,Coffee Bar
+104,Caf&eacute; Luxembourg,200 W. 70th St. New York,212/873-7411,French
+105,Caf&eacute; Pierre,2 E. 61st St. New York,212/940-8185,French
+106,Caf&eacute; des Artistes,1 W. 67th St. New York,212/877-3500,Continental
+107,Cafe Centro,200 Park Ave. between 45th St. and Vanderbilt Ave. New York,212/818-1222,French
+108,Cafe Fes,246 W. 4th St. at Charles St. New York,212/924-7653,Mediterranean
+109,Caff&egrave; Dante,81 Macdougal St. between Houston and Bleeker Sts. New York,212/982-5275,Coffee Bar
+110,Caff&egrave; Dell'Artista,46 Greenwich Ave. New York,212/645-4431,Coffee Bar
+111,Caff&egrave; Lure,169 Sullivan St. between Houston and Bleecker Sts. New York,212/473-2642,French
